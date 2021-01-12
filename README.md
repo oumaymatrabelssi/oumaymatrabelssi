@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Back-end Developer.
 - 🌱 I’m currently learning about tech sales.
-- 👯 I’m looking to collaborate on youtube.
+- 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with tech sales field.
 - 💬 Ask me about Docker, Kubernetes and related devOps tools.
 - 📫 How to reach me: oumaymatrabelssi23@gmail.com
